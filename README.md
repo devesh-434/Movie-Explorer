@@ -68,3 +68,47 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+Movie Search App
+This is a web application built with React.js that allows users to search for movies based on their title or genre. The app fetches data from a movie API and displays the search results in a grid format, showing information such as the movie title, poster image, genres, rating, cast, and directors.
+Technologies Used
+
+React.js: A JavaScript library for building user interfaces.
+Node.js: A JavaScript runtime environment that allows you to run JavaScript code outside of a web browser.
+Axios: A popular promise-based HTTP client for making API requests.
+
+Features
+
+Search for movies by title or genre.
+Display movie information including title, poster image, genres, rating, cast, and directors.
+Responsive design for different screen sizes.
+
+Installation
+
+Clone the repository:
+
+Copy codegit clone https://github.com/devesh-434/Movie-Explorer.git
+
+Navigate to the project directory:
+
+Copy codecd movie-search-app
+
+Install the dependencies:
+
+Copy codenpm install
+
+Start the development server:
+
+Copy codenpm start
+The app should now be running at http://localhost:3000.
+Usage
+
+Open the app in your web browser.
+Type a movie title or genre in the search input field.
+The app will display the matching movies in a grid format.
+
+Tech Stack used:
+React Documentation
+Axios Documentation
+Movie API
